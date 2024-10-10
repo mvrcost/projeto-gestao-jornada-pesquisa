@@ -17,7 +17,7 @@ Este repositório possue o plano para a implementação de um sistema  para gere
 ## Ferramentas de Gestão de Projetos
 
 - **Trello para Gerenciamento:**
-  - Utilizamos o Trello como ferramenta principal para gerenciar tarefas, acompanhar o progresso e organizar as atividades do projeto.
+  - Utilizamos o Trello como ferramenta principal para gerenciar tarefas, acompanhar o progresso e organizar as atividades do projeto. 
 
 
 ## Desafios Atuais
